@@ -1,0 +1,59 @@
+body, html{
+  font-family: 'Lato', sans-serif;
+  background-color: #15120f;
+  /*overflow-y: hidden;*/
+}
+
+.main{
+  text-align: center;
+  max-width: 960px;
+  width: 100%;
+  margin: auto;
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
+
+.complete{
+  font-weight: 300;
+  color: white;
+  opacity: 1.0 !important;
+}
+
+#ID-count, #DMSN-count, #WP-count, #PD-count{
+  color: white;
+  font-size: 130%;
+}
+
+h1, h3{
+  font-weight: 300; /* lighter */
+  padding: 5px;
+}
+
+.ID{
+  color:#33BC96 ;
+}
+
+.DMSN{
+  color:#DF605D ;
+}
+
+.WP{
+  color:#FAB065 ;
+}
+
+.PD{
+  color:#50c7e1 ;
+}
+
+.test{
+  color: red;
+}
+
+.head, #test-count, #blah-count{
+  color: white;
+}
+
+.time{
+  font-weight: 300;
+  font-size: 80%;
+}
